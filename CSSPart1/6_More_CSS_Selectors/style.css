@@ -12,7 +12,7 @@ Universal Selector '*'
     font-family: Arial, Helvetica, sans-serif;
  }
 
- section.my-articles{
+.my-articles{
    background-color: #f2e9e9;
  }
 
@@ -26,15 +26,14 @@ Universal Selector '*'
     color:blue;
  }
 
- /* 
- // It Changes All h2 inside the section
+
  
- section.my-articles h2{ 
+  .my-articles h2{ 
     font-family: sans-serif;
     color: green;
  }
 
- */
+
 
   /* Change the direct Child */
  section.my-articles > h2{    

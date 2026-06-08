@@ -5,7 +5,7 @@ body{
 }
 .box1,.box2{
     border: 2px solid #444;
-    padding: 10px;
+    padding: 20px;
 }
 /* Margin Collapsing */
 .box1{

@@ -21,7 +21,7 @@ Relative Units
 
 html{
     /* font-size: 10px; */
-    font-size: 62.5%;
+    font-size: 10px;
     /* 16px -->100% */
     /* 10px --->  100/16*10  */
 }
@@ -40,10 +40,10 @@ html{
 */
 
 .text-content{
-     font-size: 3rem; 
+     font-size: 2rem; 
      border: 1rem solid red;
-     margin: 0.5 rem;
-     padding: 2.5rem;
+     margin: 2rem;
+     padding: 10px;
 }
 /*
   Makes Calulation easy 
